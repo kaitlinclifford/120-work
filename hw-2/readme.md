@@ -19,4 +19,4 @@ Kaitlin Clifford 50
 I really want to stress that I don't know what I'm doing. Just giving what I can.
 ```
 
-![Image of my editor](hw-2 coding.png)
+![Image of my editor](hw-2 coding.jpg)
