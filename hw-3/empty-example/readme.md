@@ -26,4 +26,4 @@ I'm also having trouble with adding a photo to the bottom of my readme. I keep g
 
 ## Final Sketch HW-3
 
-![Final Sketch Picture](sketch.jpg)
+![Final Sketch Picture](images/hwsketch.jpg)
