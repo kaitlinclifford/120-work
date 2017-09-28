@@ -1,8 +1,8 @@
 // create the setup() function
 function setup() {
 
-// create a canvas that is 700px X 500px
-  createCanvas( 700,500 );
+// create a canvas that is 800px X 600px
+  createCanvas( 800,600 );
 
 // create a background with the color 'magenta'
   background( 'magenta' );
@@ -12,6 +12,6 @@ function setup() {
 function draw() {
 
   //create text string with 'Hello World!' inside
-  text( 'Hello World!', 300, 250 );
+  text( 'Hello World!', 350, 300 );
 
 }
