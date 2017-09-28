@@ -22,7 +22,8 @@ After having to redo all of the homework again, I was **hopefully** able to figu
 ## Overall Thoughts
 
 Overall, this week wasn't too bad. I think that if I started doing this homework earlier than Tuesday, I would be able to not stress so much about the homework. Also, I'm glad that we have the issues page so that I can see other's issues as well as mine to try and help me figure out my problems.
+I'm also having trouble with adding a photo to the bottom of my readme. I keep getting a 404 error code, even when I try both png and jpg photos.
 
 ## Final Sketch HW-3
 
-![Here is a picture of my final sketch for the hw-3 assignment](Images/hw3sketch.jpg)
+![Final Sketch Picture](sketch.jpg)
