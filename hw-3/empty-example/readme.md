@@ -25,4 +25,4 @@ Overall, this week wasn't too bad. I think that if I started doing this homework
 
 ## Final Sketch HW-3
 
-![Here is a picture of my final sketch](Images/hw3_sketch_pic.png)
+![Here is a picture of my final sketch for the hw-3 assignment](Images/hw3_sketch_pic.jpg)
