@@ -18,8 +18,8 @@ I made a portrait that I'm proud of, and hoping that I don't screw it up when I 
 
 Overall this week was pretty good in this class. I was glad that I was able to go to office hours and figure out what had happened last week. Even though I didn't use the issues page this week, it was good to read other people's issues in case things were to go wrong for me.
 
--I would like to keep using office hours because that will really help me if I have issues.
--I would like to help others more on the issues board if I can, because I want to be useful even if I don't know what I'm doing.
+- I would like to keep using office hours because that will really help me if I have issues.
+- I would like to help others more on the issues board if I can, because I want to be useful even if I don't know what I'm doing.
 
 # Final Sketch of HW-4
 
