@@ -1,6 +1,6 @@
 Kaitlin Clifford, 50
 
-[Live Sketch Link](kaitlinclifford.github.io/120-work/hw-7/)
+[Live Sketch Link](https://kaitlinclifford.github.io/120-work/hw-7/)
 
 # HW 7 | Describe then Alter the Bouncing Ball
 
